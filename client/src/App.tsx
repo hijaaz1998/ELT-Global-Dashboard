@@ -1,4 +1,3 @@
-// src/App.tsx
 import React from 'react';
 import Sidebar from './components/Sidebar';
 import MainContent from './components/MainContent';
